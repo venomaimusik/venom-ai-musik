@@ -176,8 +176,8 @@ const songs = [
   cover: "Hey mein stolzer Adler.png"
 },
 {
-  title: "Hinter die Masken",
-  file: "Hinter die Masken.mp3",
+  title: "hinter die Masken",
+  file: "hinter die Masken.mp3",
   cover: "Hinter den masken.png"
 },
 {
@@ -231,8 +231,8 @@ const songs = [
   cover: "Lasst sie in Ruhe.png"
 },
 {
-  title: "Leere",
-  file: "Leere.mp3",
+  title: "leere",
+  file: "leere.mp3",
   cover: "leere.png"
 },
 {
@@ -241,8 +241,8 @@ const songs = [
   cover: "Mein schatz.png"
 },
 {
-  title: "Mimimmi",
-  file: "Mimimmi.mp3",
+  title: "mimimmi",
+  file: "mimimmi.mp3",
   cover: "Mimimmi.png"
 },
 {
@@ -326,8 +326,8 @@ const songs = [
   cover: "Tick Tack Zack.png"
 },
 {
-  title: "Unser Hochzeitstag 9 Jahre",
-  file: "Unser Hochzeitstag 9 Jahre.mp3",
+  title: "unser Hochzeitstag 9 Jahre",
+  file: "unser Hochzeitstag 9 Jahre.mp3",
   cover: "unser hochzeitstag 9 jahre.png"
 },
 {
