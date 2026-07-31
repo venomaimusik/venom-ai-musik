@@ -351,8 +351,8 @@ const songs = [
   cover: "Wooohhh Boooo Hiiiiii.png"
 },
 {
-  title: "Zarbex Schradin bleibt für immer",
-  file: "Zarbex Schradin bleibt für immer.mp3",
+  title: "Zarbex Schradin Bleibt für immer",
+  file: "Zarbex Schradin Bleibt für immer.mp3",
   cover: "Zarbex Schradin Bleibt dür immer.png"
 },
 {
